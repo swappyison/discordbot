@@ -1,0 +1,4 @@
+discord.py==1.7.3
+google-api-python-client==2.22.0
+google-auth==2.3.0
+fuzzywuzzy==0.18.0
